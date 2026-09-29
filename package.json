@@ -1,0 +1,25 @@
+{
+  "name": "code-scanning",
+  "version": "1.0.0",
+  "description": "this is the readme file",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeluu21/code-scanning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/neeluu21/code-scanning/issues"
+  },
+  "homepage": "https://github.com/neeluu21/code-scanning#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
